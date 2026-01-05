@@ -1,4 +1,6 @@
-[![GitHub Streak](https://github-readme-streak-stats-e26jnblaf-pawan-kushwahas-projects.vercel.app?user=pawan-pk&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats">
+<img src="https://github-readme-streak-stats-e26jnblaf-pawan-kushwahas-projects.vercel.app?user=pawan-pk&theme=github-dark-blue" alt="GitHub Streak" />
+</a>
 
 <div align="center">
    <a rel="me" href="https://stackoverflow.com/users/13207082/pawan-kumar-kushwaha">
