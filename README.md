@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/pawan-pk">
-   <img src="https://github-readme-streak-stats-iota-two-48.vercel.app/?user=pawan-pk&theme=github-dark-blue" alt="GitHub Streak" />
+   <img src="https://pawan-pk-stats.vercel.app/?user=pawan-pk&theme=github-dark-blue" alt="GitHub Streak" />
   </a>
    <br/>
   <br/>
